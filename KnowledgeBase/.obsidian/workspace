@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "d2df7d4274d475fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "794eb8e5a398bbf8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20220129.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60b53783ffee462c",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ec75b3b453f742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aa5905db581c25c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "16ac31b119984299",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dcd14a4aa1e5d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "205de65fc38cff95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de8d41c0546859e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20220129.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1d3bd638148209b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b450c98ab79ef1ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day Planners/Day Planner-20220129.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4d06fc81332355c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ef1b4a26d95b22",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "794eb8e5a398bbf8",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20220129.md",
+    "Day Planners/Day Planner-20220128.md",
+    "Produce more in less time.md",
+    "Open Source.md"
+  ]
+}
