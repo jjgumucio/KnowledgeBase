@@ -1,0 +1,1 @@
+Create Interfaces for Svelte component props.
