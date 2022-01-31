@@ -3,21 +3,21 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 2:09:15 PM
+    %% Current Time: 2:28:24 PM
     section Tasks
-    Develop Medgrep     :12-05, 85mm
-    Develop Crowdlytics elevator pitch     :13-30, 60mm
+    Develop Medgrep     :12-05, 145mm
+    Develop Crowdlytics elevator pitch     :15-30, 90mm
     Django recap     :17-00, 30mm
     Blender     :17-30, 0mm
     section Breaks
-    BREAK     :14-30, 150mm
+    BREAK     :14-30, 60mm
 ```
 
 ## Morning Work
-- [x] 12:05 Develop Medgrep
-- [ ] 13:30 Develop Crowdlytics elevator pitch
+- [ ] 12:05 Develop Medgrep
 - [ ] 14:30 BREAK
 
 ## Afternoon School
+- [ ] 15:30 Develop Crowdlytics elevator pitch
 - [ ] 17:00 Django recap
 - [ ] 17:30 Blender
