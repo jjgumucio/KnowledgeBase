@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Note Template.md",
+            "file": "Atomic Ideas/Free Frontend.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Atomic Ideas/Free Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Atomic Ideas/Free Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +125,9 @@
   },
   "active": "adce9908f609e4b3",
   "lastOpenFiles": [
+    "Atomic Ideas/Free Frontend.md",
     "Templates/Note Template.md",
     "Day Planners/Day Planner-20220131.md",
-    "Atomic Ideas/Untitled.md",
     "Atomic Ideas/RPG Awesome.md",
     "Atomic Ideas/Open Source.md",
     "Templates/Map of Content.md",
