@@ -102,6 +102,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "902fd3c4fabe9292",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       },
