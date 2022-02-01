@@ -8,5 +8,6 @@
   "vimMode": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Atomic Ideas",
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "promptDelete": false
 }
