@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/01/02/2022.md",
+            "file": "Projects/Where2Party/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/01/02/2022.md",
+                "file": "Projects/Where2Party/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/01/02/2022.md",
+                "file": "Projects/Where2Party/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/01/02/2022.md"
+                "file": "Projects/Where2Party/Untitled.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "7607cdfa95f15dda",
   "lastOpenFiles": [
+    "Projects/Where2Party/Untitled.md",
     "Daily Notes/01/02/2022.md",
     "Templates/Note Template.md",
     "Templates/DailyNote.md",
@@ -152,7 +153,6 @@
     "Templates/Meeting.md",
     "template/Meeting.md",
     "Atomic Ideas/Free Frontend.md",
-    "Day Planners/Day Planner-20220131.md",
-    "Atomic Ideas/RPG Awesome.md"
+    "Day Planners/Day Planner-20220131.md"
   ]
 }
