@@ -1,13 +1,14 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "foldHeading": true,
-  "foldIndent": true,
+  "foldHeading": false,
+  "foldIndent": false,
   "spellcheck": true,
   "tabSize": 2,
   "vimMode": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Atomic Ideas",
   "attachmentFolderPath": "Files",
-  "promptDelete": false
+  "promptDelete": false,
+  "showFrontmatter": true
 }
