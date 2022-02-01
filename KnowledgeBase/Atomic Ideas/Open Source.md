@@ -1,11 +1,15 @@
 Created at: 30-01-2022 16:26
-Status: #resource 
-Tags:
+Status: #resources 
+Tags: [[Awesome Open Source]],[[tech resources]]
+
 # Open Source
+
 ## List of Open Source Apps
+
 ### Python / Django:
-	####CMS
-	- Wagtail [[https://github.com/wagtail/wagtail]] 11.6k :star:
+
+#### CMS
+- Wagtail [[https://github.com/wagtail/wagtail]] 11.6k :star:
 	- Django CMS [[https://github.com/django-cms/django-cms]] 8.6k :star:
 	- Mezzanine [[https://github.com/stephenmcd/mezzanine]] 4.4k :star:
 
