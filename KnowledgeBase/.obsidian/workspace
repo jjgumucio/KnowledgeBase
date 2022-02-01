@@ -13,7 +13,21 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "c9f17e9e63419658"
+      },
+      {
+        "id": "04a1327b61b4c446",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Meeting.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "c9f17e9e63419658"
       }
     ],
     "direction": "vertical"
@@ -110,6 +124,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "82fdf84c7df2db06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Meeting.md"
+              }
+            }
           }
         ]
       },
@@ -129,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "aaf7256f46b1ba1d",
   "lastOpenFiles": [

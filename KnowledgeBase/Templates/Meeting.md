@@ -2,9 +2,9 @@
 
 Date: {{date:MMM d, YYYY}}
 Attendees:
+1. 
 
 ---
-
 # Goals / agenda
 1. 
 
