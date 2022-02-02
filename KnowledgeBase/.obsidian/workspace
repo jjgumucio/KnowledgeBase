@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022/02/02.md",
+            "file": "Atomic Ideas/Reddit for insights.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022/02/02.md",
+                "file": "Atomic Ideas/Reddit for insights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022/02/02.md",
+                "file": "Atomic Ideas/Reddit for insights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022/02/02.md"
+                "file": "Atomic Ideas/Reddit for insights.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "d023f52618d0d0ad",
   "lastOpenFiles": [
+    "Atomic Ideas/Reddit for insights.md",
     "Daily Notes/2022/02/02.md",
     "Daily Notes/2022/02/01.md",
     "Atomic Ideas/Open Source.md",
@@ -152,7 +153,6 @@
     "Templates/Note Template.md",
     "Templates/DailyNote.md",
     "Day Planners/Day Planner-20220129.md",
-    "Atomic Ideas/Obsidian Use Cases.md",
-    "Templates/Meeting.md"
+    "Atomic Ideas/Obsidian Use Cases.md"
   ]
 }
