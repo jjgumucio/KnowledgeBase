@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 11:18:22 AM
+    %% Current Time: 11:23:22 AM
     section Tasks
     Develop Crowdlitys pitch and business model     :10-00, 60mm
     Create invoice     :11-20, 10mm
@@ -14,7 +14,7 @@ gantt
 ```
 
 - [x] 10:00 Develop Crowdlitys pitch and business model
-- [ ] 11:00 BREAK
+- [x] 11:00 BREAK
 - [ ] 11:20 Create invoice
 - [ ] 11:30 Revive piano
 - [ ] 12:00 Embedded Rust
