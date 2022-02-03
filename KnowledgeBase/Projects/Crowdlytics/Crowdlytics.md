@@ -7,6 +7,7 @@ The reality is that data analysis is really useful and valuable for business of 
 
 ### Solution:
 - Create common, community driven big data  _repository_ with data collected from as many small and medium business as possible.
-- SMBs inject their business data to this _repository_ and, in return, they get access to all data of the repo (annonimized)
+- The data submitted should be organized and classified to easily access subsets of data given a certain business model, category or area of performance.
+- SMBs inject their business data to this _repository_ and, in return, they get access to all data of the _repository_, or some subset of it attractive to their business.
 ## References
 1.
