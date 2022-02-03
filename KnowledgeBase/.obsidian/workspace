@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atomic Ideas/Blockchain as a Service.md",
+            "file": "Daily Notes/2022/02/03.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Ideas/Blockchain as a Service.md",
+                "file": "Daily Notes/2022/02/03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Ideas/Blockchain as a Service.md",
+                "file": "Daily Notes/2022/02/03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Ideas/Blockchain as a Service.md"
+                "file": "Daily Notes/2022/02/03.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "d023f52618d0d0ad",
   "lastOpenFiles": [
+    "Daily Notes/2022/02/03.md",
     "Atomic Ideas/Blockchain as a Service.md",
     "Atomic Ideas/Reddit for insights.md",
     "Daily Notes/2022/02/02.md",
@@ -152,7 +153,6 @@
     "Atomic Ideas/Awesome Open Source.md",
     "Projects/Where2Party/General Idea.md",
     "Templates/Note Template.md",
-    "Templates/DailyNote.md",
-    "Day Planners/Day Planner-20220129.md"
+    "Templates/DailyNote.md"
   ]
 }
