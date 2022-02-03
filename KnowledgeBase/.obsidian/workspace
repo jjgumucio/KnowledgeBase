@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220203.md",
+            "file": "Projects/Where2Party/General Idea.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220203.md",
+            "file": "Projects/Where2Party/General Idea.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220203.md",
+                "file": "Projects/Where2Party/General Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20220203.md",
+                "file": "Projects/Where2Party/General Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20220203.md"
+                "file": "Projects/Where2Party/General Idea.md"
               }
             }
           }
@@ -154,10 +154,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "d023f52618d0d0ad",
   "lastOpenFiles": [
+    "Projects/Where2Party/General Idea.md",
     "Day Planners/Day Planner-20220203.md",
     "Day Planners/Day Planner-20220128.md",
     "Daily Notes/2022/02/03.md",
@@ -166,7 +168,6 @@
     "Atomic Ideas/Blockchain as a Service.md",
     "Atomic Ideas/Reddit for insights.md",
     "Atomic Ideas/Open Source.md",
-    "Atomic Ideas/Awesome Open Source.md",
-    "Projects/Where2Party/General Idea.md"
+    "Atomic Ideas/Awesome Open Source.md"
   ]
 }
