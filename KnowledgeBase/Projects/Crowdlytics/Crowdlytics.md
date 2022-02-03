@@ -15,4 +15,4 @@ The reality is that data analysis is really useful and valuable for business of 
 - SMBs can voluntarily inject their data into the central _repository_ and gain access to all data with the condition that the ownership of the data is transferred to __Crowdlytics__.
 
 ## References
-1.
+1. [Business Models](https://www.businessmodelsinc.com/big-data-business-models/)
