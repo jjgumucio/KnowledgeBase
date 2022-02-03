@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Where2Party/General Idea.md",
+            "file": "Projects/Crowdlytics/Crowdlytics.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Where2Party/General Idea.md",
+            "file": "Projects/Crowdlytics/Crowdlytics.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Where2Party/General Idea.md",
+                "file": "Projects/Crowdlytics/Crowdlytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Where2Party/General Idea.md",
+                "file": "Projects/Crowdlytics/Crowdlytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Where2Party/General Idea.md"
+                "file": "Projects/Crowdlytics/Crowdlytics.md"
               }
             }
           }
@@ -159,6 +159,7 @@
   },
   "active": "d023f52618d0d0ad",
   "lastOpenFiles": [
+    "Projects/Crowdlytics/Crowdlytics.md",
     "Projects/Where2Party/General Idea.md",
     "Day Planners/Day Planner-20220203.md",
     "Day Planners/Day Planner-20220128.md",
@@ -167,7 +168,6 @@
     "Daily Notes/2022/02/01.md",
     "Atomic Ideas/Blockchain as a Service.md",
     "Atomic Ideas/Reddit for insights.md",
-    "Atomic Ideas/Open Source.md",
-    "Atomic Ideas/Awesome Open Source.md"
+    "Atomic Ideas/Open Source.md"
   ]
 }
