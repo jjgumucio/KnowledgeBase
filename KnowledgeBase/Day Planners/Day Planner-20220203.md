@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 1:28:22 PM
+    %% Current Time: 1:33:22 PM
     section Tasks
     Develop Crowdlitys pitch and business model     :10-00, 60mm
     Create invoice     :11-50, 10mm
@@ -17,7 +17,7 @@ gantt
 - [x] 10:00 Develop Crowdlitys pitch and business model
 - [x] 11:00 BREAK
 - [x] 11:50 Create invoice
-- [ ] 12:00 Develop Medgrep
+- [x] 12:00 Develop Medgrep
 - [ ] 13:30 BREAK
 - [ ] 14:00 Develop Medgrep
 
