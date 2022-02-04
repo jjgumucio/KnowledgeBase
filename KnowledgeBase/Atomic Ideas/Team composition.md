@@ -10,3 +10,4 @@ Tags: [[venture capital]]
 
 ## References
 1.  ![[howvcmakedecisions.pdf]]
+2.  ![[howvcmakedecisions.pdf#page=21]]
