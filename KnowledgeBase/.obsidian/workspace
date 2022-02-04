@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022/02/04.md",
+            "file": "Atomic Ideas/Team composition.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022/02/04.md",
+                "file": "Atomic Ideas/Team composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022/02/04.md",
+                "file": "Atomic Ideas/Team composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022/02/04.md"
+                "file": "Atomic Ideas/Team composition.md"
               }
             }
           }
@@ -145,15 +145,15 @@
   },
   "active": "c7b39ca88b858920",
   "lastOpenFiles": [
+    "Atomic Ideas/Team composition.md",
+    "Day Planners/Day Planner-20220204.md",
     "Daily Notes/2022/02/04.md",
-    "Atomic Notes/Note taking purpose.md",
+    "Atomic Ideas/Note taking purpose.md",
     "Templates/Note Template.md",
     "Atomic Ideas/Confidential Computing.md",
     "Day Planners/Day Planner-20220203.md",
     "Atomic Ideas/Barker reuse.md",
     "Projects/Crowdlytics/Crowdlytics.md",
-    "Projects/Where2Party/Pitch.md",
-    "Day Planners/Day Planner-20220128.md",
-    "Daily Notes/2022/02/03.md"
+    "Projects/Where2Party/Pitch.md"
   ]
 }
