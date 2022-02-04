@@ -1,6 +1,6 @@
 Created at: 04-02-2022 16:38
 Status: #idea
-Tags:
+Tags: [[venture capital]]
 
 # Team composition evaluation for C investment rounds
 

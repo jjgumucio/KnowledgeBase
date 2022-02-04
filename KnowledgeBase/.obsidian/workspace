@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0991eebb89bd7de0",
+        "id": "7bba3c6b1a85e051",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022/02/04.md",
+            "file": "Atomic Ideas/Team composition.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022/02/04.md",
+                "file": "Atomic Ideas/Team composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022/02/04.md",
+                "file": "Atomic Ideas/Team composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022/02/04.md"
+                "file": "Atomic Ideas/Team composition.md"
               }
             }
           }
@@ -143,10 +143,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0991eebb89bd7de0",
+  "active": "7bba3c6b1a85e051",
   "lastOpenFiles": [
-    "Daily Notes/2022/02/04.md",
     "Atomic Ideas/Team composition.md",
+    "Daily Notes/2022/02/04.md",
     "Files/howvcmakedecisions.pdf",
     "Day Planners/Day Planner-20220204.md",
     "Atomic Ideas/Note taking purpose.md",
