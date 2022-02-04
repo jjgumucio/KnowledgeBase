@@ -4,8 +4,9 @@ Tags:
 
 # Team composition evaluation for C investment rounds
 
-### Do investors value heterogeneity and multi
+### Question: Do investors value heterogeneity and multi disciplinary teams?
 
+#### Thesis: Yes, they do.
 
 ## References
 1.
