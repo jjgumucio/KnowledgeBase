@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Note Template.md",
+            "file": "Atomic Notes/Note taking purpose.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Atomic Notes/Note taking purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Atomic Notes/Note taking purpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Note Template.md"
+                "file": "Atomic Notes/Note taking purpose.md"
               }
             }
           }
@@ -145,6 +145,7 @@
   },
   "active": "c7b39ca88b858920",
   "lastOpenFiles": [
+    "Atomic Notes/Note taking purpose.md",
     "Templates/Note Template.md",
     "Atomic Ideas/Confidential Computing.md",
     "Daily Notes/2022/02/04.md",
@@ -153,7 +154,6 @@
     "Projects/Crowdlytics/Crowdlytics.md",
     "Projects/Where2Party/Pitch.md",
     "Day Planners/Day Planner-20220128.md",
-    "Daily Notes/2022/02/03.md",
-    "Daily Notes/2022/02/02.md"
+    "Daily Notes/2022/02/03.md"
   ]
 }
