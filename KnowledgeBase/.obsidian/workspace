@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7bba3c6b1a85e051",
+        "id": "6d5620ef51ced195",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily Notes/2022/02/15.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022/02/15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022/02/15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2022/02/15.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7bba3c6b1a85e051",
+  "active": "6d5620ef51ced195",
   "lastOpenFiles": [
+    "Atomic Ideas/Untitled 5ddddd.md",
+    "Atomic Ideas/Untitled 4.md",
+    "Atomic Ideas/Untitled 3.md",
+    "Atomic Ideas/Untitled 2.md",
+    "Atomic Ideas/Untitled 1.md",
+    "Atomic Ideas/Untitled.md",
     "Daily Notes/2022/02/15.md",
     "Atomic Ideas/Team composition.md",
     "Daily Notes/2022/02/04.md",
-    "Files/howvcmakedecisions.pdf",
-    "Day Planners/Day Planner-20220204.md",
-    "Atomic Ideas/Note taking purpose.md",
-    "Templates/Note Template.md",
-    "Atomic Ideas/Confidential Computing.md",
-    "Day Planners/Day Planner-20220203.md",
-    "Atomic Ideas/Barker reuse.md"
+    "Files/howvcmakedecisions.pdf"
   ]
 }
