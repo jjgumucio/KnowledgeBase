@@ -5,4 +5,4 @@
 Podcast to listen:
 - Darknet Diaries 
 - The CiberWire daily
-- 
+- Follow security twitter account: The Hacker News, Huntres
